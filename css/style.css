@@ -5,3 +5,10 @@
 html {
     box-sizing: border-box;
   }
+
+#piano {
+    background-color: #ceac63;
+    width: 992px;
+    height: 290px;
+    margin: 80px auto;
+  }
