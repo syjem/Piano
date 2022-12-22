@@ -40,3 +40,8 @@ html {
     height: 100px;
   }
 
+  .logo {
+    width: 200px;
+    position: absolute;
+    top: 23px;
+  }
